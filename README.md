@@ -9,3 +9,7 @@ it was meant to look like a ugly website on purpose!
 
 Most of everything was made by me
 and the [picture](https://twitter.com/FlufPan/status/1723532452780708322) used for Discord Embed was made by [Paincake](https://twitter.com/FlufPan) on twitter (aka X)
+
+# is the website real?
+
+yep, you can find it online [over here](http://themostbasic.great-site.net/)!
